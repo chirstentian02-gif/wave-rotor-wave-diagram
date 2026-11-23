@@ -1,0 +1,8 @@
+# simulation data and generated figures stay local
+data/
+wave_diagrams/
+*.out
+*.png
+*.xlsx
+__pycache__/
+.venv/
